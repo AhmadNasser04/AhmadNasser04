@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AhmadNasser04
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning C++
 - 📫 Reach me at ahmad_nasser04@outlook.com
 - Check out my porfolio at ahmadnasser.net
 

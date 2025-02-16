@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AhmadNasser04
 - 👀 I’m interested in Web Development
 - 📫 Reach me at ahmad_nasser04@outlook.com
-- Check out my porfolio at ahmadnasser.net
 
 <!---
 AhmadNasser04/AhmadNasser04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

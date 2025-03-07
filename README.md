@@ -23,7 +23,7 @@ I'm a passionate Software Engineer with expertise in building robust, scalable s
   <img src="https://img.shields.io/badge/-Docusaurus-2E8555?style=for-the-badge&logo=docusaurus&logoColor=white" alt="Docusaurus" />
   <img src="https://img.shields.io/badge/-Jekyll-CC0000?style=for-the-badge&logo=jekyll&logoColor=white" alt="Jekyll" />
   <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />

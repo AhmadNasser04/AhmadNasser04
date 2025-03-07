@@ -6,7 +6,7 @@ I'm a passionate Software Engineer with expertise in building robust, scalable s
 
 ## 🛠️ Skills & Technologies
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/-Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white" alt="Svelte" />

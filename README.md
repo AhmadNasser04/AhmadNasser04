@@ -1,10 +1,10 @@
-# 👨‍💻 Ahmad Nasser
+# Ahmad Nasser
 
-## 👋 About Me
+## About Me
 
 I'm a passionate Software Engineer with expertise in building robust, scalable systems and applications. I enjoy solving complex problems across the entire technology stack and have experience with a wide range of programming languages, frameworks, and architectural patterns.
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 <div>
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
@@ -48,16 +48,11 @@ I'm a passionate Software Engineer with expertise in building robust, scalable s
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![=GitHub stats](https://github-readme-stats.vercel.app/api?username=AhmadNasser04&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadNasser04&layout=compact&theme=radical)
-
-## 📫 Connect with Me
-
-- Email: ahmad_nasser04@outlook.com
-- LinkedIn: [Ahmad Nasser](https://www.linkedin.com/in/ahmad-nasser-034222223/)
 
 <!---
 AhmadNasser04/AhmadNasser04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
